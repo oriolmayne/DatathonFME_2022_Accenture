@@ -13,7 +13,7 @@ The project is structured as follows:
 - `Datasets`: contains the data used for the challenge, both the original data and the data after the preprocessing.
 - `Predictions`: contains the predictions of the models created.
 - `DLmodel`: contains the trained model of the deep learning model.
-- `DataVisualization.ipynb`: notebook used to visualize the data.
+- `DataVisualization.ipynb`: notebook used to visualize the data and obtain insights.
 - `DecisionTreeClassifier.ipynb`: notebook used to train the decision tree classifier model.
 - `LogRes+DL.ipynb`: notebook used to train both the logistic regression model and the deep learning model.
 
