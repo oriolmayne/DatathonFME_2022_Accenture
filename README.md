@@ -27,4 +27,4 @@ The decision tree classifier model obtained a ROC AUC score of 0.76, wich is als
 ## Team
 * Jonathan Rodríguez Barja
 * Thomas González Saito
-* Oriol Mayné comas
+* Oriol Mayné Comas
